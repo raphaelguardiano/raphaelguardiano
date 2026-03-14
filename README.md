@@ -1,22 +1,22 @@
 # Olá, eu sou Raphael Guardiano 👋
 
-Estou em transição para a área de **Análise de Dados**, com foco em transformar dados em informações úteis para tomada de decisão.
+Estou em transição para a área de **Análise de Dados**, com foco em **dashboards, indicadores de desempenho e automação de relatórios**.
 
-Atualmente estou construindo projetos de portfólio voltados para **análise de negócios, dashboards e automação de relatórios**.
+Meu objetivo é atuar como **Analista de Dados Freelancer**, ajudando empresas a organizar dados, acompanhar KPIs e apoiar decisões por meio de análises práticas e visuais.
 
 ---
 
-## 📊 Áreas de interesse
+## Áreas de foco
 
-- Análise de dados para negócios
 - Dashboards executivos
 - Análise de indicadores (KPIs)
-- Organização e tratamento de dados
+- Análise de desempenho de vendas e operações
+- Tratamento e organização de dados
 - Automação de relatórios
 
 ---
 
-## 🛠 Ferramentas em desenvolvimento
+## Ferramentas
 
 - Excel
 - Power BI
@@ -25,45 +25,29 @@ Atualmente estou construindo projetos de portfólio voltados para **análise de 
 
 ---
 
-## 📁 Projetos em construção
+## Projetos em construção
 
-Este perfil está sendo utilizado para publicar projetos práticos de análise de dados, incluindo:
+Este perfil será utilizado para publicar projetos práticos de portfólio em Análise de Dados, com foco em problemas reais de negócio, incluindo:
 
-- Dashboard de performance de vendas
-- Análise de logística em e-commerce
-- Automação de relatórios com Python
-- Análise de dados com SQL
-- Coleta de dados com Web Scraping
-
----
-
-## 🎯 Objetivo profissional
-
-Atuar como **Analista de Dados Freelancer**, ajudando empresas a:
-
-- entender seus dados
-- acompanhar indicadores de desempenho
-- automatizar relatórios
-- apoiar decisões com análises baseadas em dados
+- Dashboard de Performance de Vendas
+- Análise de Logística em E-commerce
+- Automação de Relatórios com Python
+- Análise de Dados com SQL
+- Coleta e tratamento de dados com Web Scraping
 
 ---
 
-## 🔗 Conecte-se comigo
+## Objetivo profissional
 
-LinkedIn  
-https://www.linkedin.com/in/raphaelguardiano
+Desenvolver soluções orientadas a dados para pequenas empresas, e-commerces, agências e negócios que precisem de:
 
-<!--
-**raphaelguardiano/raphaelguardiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- visibilidade de desempenho
+- organização de informações
+- relatórios automatizados
+- apoio analítico para tomada de decisão
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/raphaelguardiano)
