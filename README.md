@@ -1,3 +1,4 @@
+![Banner](banner_GitHub.png)
 # Olá, eu sou Raphael Guardiano 👋
 
 Estou em transição para a área de **Análise de Dados**, com foco em **dashboards, indicadores de desempenho e automação de relatórios**.
