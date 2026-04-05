@@ -26,15 +26,23 @@ Meu objetivo é atuar como **Analista de Dados Freelancer**, ajudando empresas a
 
 ---
 
-## Projetos em construção
+## Projetos publicados
 
-Este perfil será utilizado para publicar projetos práticos de portfólio em Análise de Dados, com foco em problemas reais de negócio, incluindo:
+### 📊 [Sales Performance Dashboard — Excel](https://github.com/raphaelguardiano/sales-performance-dashboard-excel)
+Análise de desempenho de vendas com dashboard executivo, KPIs e análise de Pareto por subcategoria. Identifica que Furniture representa 32% da receita mas apenas 6% do lucro.  
+**Ferramentas:** Excel · Tabelas Dinâmicas · EDA
 
-- Dashboard de Performance de Vendas
-- Análise de Logística em E-commerce
-- Automação de Relatórios com Python
-- Análise de Dados com SQL
-- Coleta e tratamento de dados com Web Scraping
+---
+
+### 📦 [E-commerce Logistics Investigation — Olist](https://github.com/raphaelguardiano/olist-logistics-investigation)
+Investigação dos fatores que aumentam o risco de atraso em entregas de e-commerce. Análise orientada a problema de negócio com recomendações operacionais em 3 horizontes de tempo.  
+**Ferramentas:** Excel · EDA · Análise logística
+
+---
+
+### ⚙️ [ANP Fuel Price Report Automation — Python](https://github.com/raphaelguardiano/anp-fuel-price-report-automation)
+Automação de pipeline de dados com Python: leitura de múltiplos CSVs da ANP, consolidação, limpeza e geração automática de relatório Excel com KPIs por estado e período.  
+**Ferramentas:** Python · pandas · xlsxwriter
 
 ---
 
